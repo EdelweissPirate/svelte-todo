@@ -1,12 +1,8 @@
 <div align=center>
 
----
-
 # Svelte-Todo
 
-###### Svelte
-
----
+###### - Svelte - 
 
 </div>
 
